@@ -1,0 +1,12 @@
+Calea initiala: 
+C:\Users\lluca\Desktop\a
+				b\
+						f.txt\
+						i.txt\
+						p.txt\
+				c\
+						g.txt\
+						h\
+								z.txt\
+				e.txt\
+				x.txt\
